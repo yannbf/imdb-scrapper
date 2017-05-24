@@ -24,6 +24,7 @@ app.get('/trivia', function(req, res){
         }
 
         function extractData(list){
+            console.log(list);
             var data = [];
             list.each(function(i,e){
                 data.push($(this).text().trim());
@@ -43,6 +44,7 @@ app.get('/scrape', function(req, res){
     url    = 'http://www.imdb.com/title/' + id;
     request(url, function(error, response, html){
         if(!error){
+            console.log('Request done with no errors!');
             var $ = cheerio.load(html);
 
             var title, release, rating, trivia;
@@ -71,8 +73,16 @@ app.get('/scrape', function(req, res){
 });
 
 function writeFile(name, file){
-    fs.writeFile('./data/' + name + '.json', JSON.stringify(file, null, 4), function(err){
-        console.log('File successfully written');
+    var dir = './data/';
+
+    if (!fs.existsSync(dir)){
+        fs.mkdirSync(dir);
+    }
+
+    var filename = dir + name + '.json';
+
+    fs.writeFile(filename, JSON.stringify(file, null, 4), function(err){
+        console.log('File successfully written: ' + filename);
     });
 }
 
