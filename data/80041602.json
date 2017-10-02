@@ -1,0 +1,55 @@
+{
+    "id": "80041602",
+    "poster": {
+        "portrait": "http://art-2.nflximg.net/15409/d90de80ff5a83bd164637a815f01f38789b15409.jpg",
+        "landscape": ""
+    },
+    "title": "Lovesick",
+    "year": "2014",
+    "synopsis": "In his quest for true love, Dylan found chlamydia. Joined by friends Evie and Luke, he relives past encounters as he notifies all his former partners.",
+    "cast": "Johnny Flynn, Antonia Thomas, Daniel Ings",
+    "episodes": [
+        {
+            "number": 1,
+            "title": "Abigail",
+            "synopsis": "Dylan relives a nightmarish encounter from three years ago when he visits Abigail, the first on his alphabetical list of past conquests.",
+            "runtime": "24 minutes",
+            "link": "http://www.netflix.com/watch/80041529"
+        },
+        {
+            "number": 2,
+            "title": "Anna",
+            "synopsis": "While visiting Anna, Dylan recalls a disastrous double date with Luke, who was trying to keep Anna's classmate, Cleo, from discovering his shallowness.",
+            "runtime": "24 minutes",
+            "link": "http://www.netflix.com/watch/80041530"
+        },
+        {
+            "number": 3,
+            "title": "Cressida",
+            "synopsis": "While Luke puts the moves on a childhood crush at a swanky party, Dylan and Evie cure their boredom by running through items on Luke's bucket list.",
+            "runtime": "24 minutes",
+            "link": "http://www.netflix.com/watch/80041531"
+        },
+        {
+            "number": 4,
+            "title": "Jane",
+            "synopsis": "The show flashes back three years to a birthday dinner between Evie and Dylan that comes undone. Meanwhile, Dylan reconnects with Abigail.",
+            "runtime": "23 minutes",
+            "link": "http://www.netflix.com/watch/80041532"
+        },
+        {
+            "number": 5,
+            "title": "Bethany",
+            "synopsis": "Dylan's visit to Bethany recalls a dinner with her intimidating big brother, while Luke tries to learn why his female co-workers all hate him.",
+            "runtime": "22 minutes",
+            "link": "http://www.netflix.com/watch/80041533"
+        },
+        {
+            "number": 6,
+            "title": "Phoebe",
+            "synopsis": "Dylan discovers why ex-girlfriend Phoebe hasn't been returning his messages. Later, Luke urges Dylan to confess his love to Evie.",
+            "runtime": "24 minutes",
+            "link": "http://www.netflix.com/watch/80041534"
+        }
+    ]
+}

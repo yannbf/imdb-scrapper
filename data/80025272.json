@@ -1,0 +1,83 @@
+{
+    "id": "80025272",
+    "poster": {
+        "portrait": "http://art-1.nflximg.net/4ec8f/07c73de59c79b88535aa18e4ee48611ecc94ec8f.jpg",
+        "landscape": ""
+    },
+    "title": "Narcos",
+    "year": "2015",
+    "synopsis": "The true story of Colombia's infamously violent and powerful drug cartels fuels this gritty gangster drama series.",
+    "cast": "Wagner Moura, Boyd Holbrook, Pedro Pascal",
+    "episodes": [
+        {
+            "number": 1,
+            "title": "Descenso",
+            "synopsis": "Chilean drug chemist Cockroach brings his product to Colombian smuggler Pablo Escobar. DEA agent Steve Murphy joins the war on drugs in Bogotá.",
+            "runtime": "57 minutes",
+            "link": "http://www.netflix.com/watch/80025313"
+        },
+        {
+            "number": 2,
+            "title": "The Sword of Simón Bolívar",
+            "synopsis": "Communist radical group M-19 makes a move against the narcos, while Murphy gets an education in Colombian law enforcement from his new partner Peña.",
+            "runtime": "46 minutes",
+            "link": "http://www.netflix.com/watch/80025314"
+        },
+        {
+            "number": 3,
+            "title": "The Men of Always",
+            "synopsis": "Murphy encounters the depths of government corruption when he and Peña try to derail Escobar's political ambitions by proving he's a narco.",
+            "runtime": "46 minutes",
+            "link": "http://www.netflix.com/watch/80025315"
+        },
+        {
+            "number": 4,
+            "title": "The Palace in Flames",
+            "synopsis": "Despite a new extradition treaty, the U.S. puts more money into fighting communism, creating new challenges for Murphy and Peña in the hunt for Pablo.",
+            "runtime": "44 minutes",
+            "link": "http://www.netflix.com/watch/80025316"
+        },
+        {
+            "number": 5,
+            "title": "There Will Be a Future",
+            "synopsis": "Pablo's extreme methods put the narcos on the brink of war with Carrillo and the government. Peña tries to protect his witness, Elisa.",
+            "runtime": "54 minutes",
+            "link": "http://www.netflix.com/watch/80025317"
+        },
+        {
+            "number": 6,
+            "title": "Explosivos",
+            "synopsis": "Peña and Carrillo close in on Gacha, while Murphy tries to protect pro-extradition candidate Gaviria from a notorious assassin connected to Pablo.",
+            "runtime": "49 minutes",
+            "link": "http://www.netflix.com/watch/80025318"
+        },
+        {
+            "number": 7,
+            "title": "You Will Cry Tears of Blood",
+            "synopsis": "Pablo goes into hiding as the political tide turns against him, but he finds a way to strike back. Murphy and Peña finally get the CIA to help them.",
+            "runtime": "50 minutes",
+            "link": "http://www.netflix.com/watch/80025319"
+        },
+        {
+            "number": 8,
+            "title": "La Gran Mentira",
+            "synopsis": "A tragic mistake forces the government to change tactics in the fight against Pablo. But Pablo faces bigger threats from inside his empire.",
+            "runtime": "51 minutes",
+            "link": "http://www.netflix.com/watch/80025320"
+        },
+        {
+            "number": 9,
+            "title": "La Catedral",
+            "synopsis": "The hunt for Pablo seems to be over after he makes a deal with the government, but Murphy and Peña -- and the Cali Cartel -- have other plans.",
+            "runtime": "51 minutes",
+            "link": "http://www.netflix.com/watch/80025321"
+        },
+        {
+            "number": 10,
+            "title": "Despegue",
+            "synopsis": "Pablo's activities in prison provoke the government into taking extreme action. Murphy and Peña face a situation of their own.",
+            "runtime": "45 minutes",
+            "link": "http://www.netflix.com/watch/80025322"
+        }
+    ]
+}

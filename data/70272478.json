@@ -1,0 +1,83 @@
+{
+    "id": "70272478",
+    "poster": {
+        "portrait": "http://art-2.nflximg.net/cb540/32222d841976fabfc5e3a3a72d38f7d49e4cb540.jpg",
+        "landscape": ""
+    },
+    "title": "Bates Motel",
+    "year": "2013",
+    "synopsis": "When his father dies, Norman Bates and his mother open a hotel. But Norman's precarious mental state drives them down a dark and violent path.",
+    "cast": "Vera Farmiga, Freddie Highmore, Max Thieriot",
+    "episodes": [
+        {
+            "number": 1,
+            "title": "First You Dream, Then You Die",
+            "synopsis": "Seeking a fresh start after her husband's tragic death, Norma Bates buys a motel on the outskirts of an idyllic coastal town.",
+            "runtime": "44 minutes",
+            "link": "http://www.netflix.com/watch/70283134"
+        },
+        {
+            "number": 2,
+            "title": "Nice Town You Picked, Norma...",
+            "synopsis": "Dylan wastes no time causing trouble at home. Meanwhile, the Bates family is inexorably drawn into the dark underbelly of White Pine Bay.",
+            "runtime": "43 minutes",
+            "link": "http://www.netflix.com/watch/70283135"
+        },
+        {
+            "number": 3,
+            "title": "What's Wrong with Norman",
+            "synopsis": "Dylan starts his new job and learns that there's more to it than he imagined. Meanwhile, Norman makes a shocking discovery.",
+            "runtime": "42 minutes",
+            "link": "http://www.netflix.com/watch/70283136"
+        },
+        {
+            "number": 4,
+            "title": "Trust Me",
+            "synopsis": "As Norma's suspicions about people in town are raised, other distractions continue to surface.",
+            "runtime": "43 minutes",
+            "link": "http://www.netflix.com/watch/70283137"
+        },
+        {
+            "number": 5,
+            "title": "Ocean View",
+            "synopsis": "While Norman desperately seeks his mother's return home, Norma gets some much-needed help from Shelby.",
+            "runtime": "42 minutes",
+            "link": "http://www.netflix.com/watch/70283138"
+        },
+        {
+            "number": 6,
+            "title": "The Truth",
+            "synopsis": "Dylan asks Norman to move in with him. Meanwhile, chaos erupts at the Bates home, and the situation with Shelby comes to a head.",
+            "runtime": "42 minutes",
+            "link": "http://www.netflix.com/watch/70283139"
+        },
+        {
+            "number": 7,
+            "title": "The Man in Number 9",
+            "synopsis": "Norma's first guest at the Bates Motel isn't what she expected. Meanwhile, Norman discovers that even popular girls are complicated.",
+            "runtime": "43 minutes",
+            "link": "http://www.netflix.com/watch/70283140"
+        },
+        {
+            "number": 8,
+            "title": "A Boy and His Dog",
+            "synopsis": "Norma finds herself in conflict with a mysterious stranger. Elsewhere, Dylan and Remo go on a road trip that has a violent outcome.",
+            "runtime": "42 minutes",
+            "link": "http://www.netflix.com/watch/70283141"
+        },
+        {
+            "number": 9,
+            "title": "Underwater",
+            "synopsis": "Abernathy amps up the pressure, but Norma doesn't know what he wants. Meanwhile, Dylan and Bradley connect, and Emma goes on a trip.",
+            "runtime": "43 minutes",
+            "link": "http://www.netflix.com/watch/70283142"
+        },
+        {
+            "number": 10,
+            "title": "Midnight",
+            "synopsis": "Romero decides that it's time to act. Meanwhile, Norman takes Emma to the dance.",
+            "runtime": "43 minutes",
+            "link": "http://www.netflix.com/watch/70283143"
+        }
+    ]
+}

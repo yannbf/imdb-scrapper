@@ -1,0 +1,41 @@
+{
+    "id": "80109510",
+    "poster": {
+        "portrait": "http://art-1.nflximg.net/b57a5/867b25d991a70293c6c25be26d956c5b140b57a5.jpg",
+        "landscape": ""
+    },
+    "title": "Gilmore Girls: A Year in the Life",
+    "year": "2016",
+    "synopsis": "Set nearly a decade after the finale of the original series, this revival follows Lorelai, Rory and Emily Gilmore through four seasons of change.",
+    "cast": "Lauren Graham, Alexis Bledel, Kelly Bishop",
+    "episodes": [
+        {
+            "number": 1,
+            "title": "Winter",
+            "synopsis": "Fresh from a career high, Rory pays a visit to Stars Hollow. Emily copes with Richard’s death. The inn keeps Lorelai busy as she ponders her future.",
+            "runtime": "91 minutes",
+            "link": "http://www.netflix.com/watch/80109386"
+        },
+        {
+            "number": 2,
+            "title": "Spring",
+            "synopsis": "As Rory's secret London love affair continues, working on her book proposal becomes increasingly difficult. Lorelai and Emily go to therapy together.",
+            "runtime": "88 minutes",
+            "link": "http://www.netflix.com/watch/80109387"
+        },
+        {
+            "number": 3,
+            "title": "Summer",
+            "synopsis": "Rory tries to save the Stars Hollow Gazette from shutting down. Lorelai sits on the advisory committee for Taylor’s musical. Rory worries about Emily.",
+            "runtime": "89 minutes",
+            "link": "http://www.netflix.com/watch/80109388"
+        },
+        {
+            "number": 4,
+            "title": "Fall",
+            "synopsis": "At odds with the most important people in her life, Lorelai seeks wisdom in nature. Rory goes out for a wild night with an unexpected crowd.",
+            "runtime": "102 minutes",
+            "link": "http://www.netflix.com/watch/80109389"
+        }
+    ]
+}
