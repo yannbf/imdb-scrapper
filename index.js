@@ -3,6 +3,10 @@ var express      = require('express');
 var request      = require('request');
 var cheerio      = require('cheerio');
 var app          = express();
+ 
+app.get('/', function (req, res) {
+   res.send('Hello World');
+})
 
 app.get('/trivia', function(req, res){
     var id = req.query.id;
